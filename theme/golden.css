@@ -1,0 +1,12 @@
+.headersection {background: #DAA520 none repeat scroll 0 0;}
+    .navsection {background: #F7F723 none repeat scroll 0 0;}
+    .navsection ul li a {background: #DAA520 none repeat scroll 0 0;}
+    .search1 input[type="text"] {border: 1px solid #DAA520;}
+    input[type="submit"] {background: #DAA520 none repeat scroll 0 0;border: 1px solid #C7920D;}
+    .samesidebar h2 {background: #DAA520 none repeat scroll 0 0;border-bottom: 2px solid #C5900B;}
+    .samesidebar ul {border: 2px solid #FAC540;}
+    .pagination a {background: #DAA520;border: 1px solid #BB8601;}
+    .footersection {background: #B88300 none repeat scroll 0 0;}
+    .footermenu ul li a {color: #B9B9B9;}
+    .sidebar {background: #DFDFA7 none repeat scroll 0 0;}
+    .maincontent {background: #DFDFA7 none repeat scroll 0 0;}

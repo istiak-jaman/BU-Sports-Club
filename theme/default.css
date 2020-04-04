@@ -1,0 +1,12 @@
+ .headersection {background: #008465 none repeat scroll 0 0;}
+    .navsection {background: #434343 none repeat scroll 0 0;}
+    .navsection ul li a {background: #434343 none repeat scroll 0 0;}
+    .search1 input[type="text"] {border: 1px solid #008465;}
+    input[type="submit"] {background: #008465  none repeat scroll 0 0;border: 1px solid #0084c0;}
+    .samesidebar h2 {background: #008465  none repeat scroll 0 0;border-bottom: 2px solid #008409;}
+    .samesidebar ul {border: 2px solid #5aad8e;}
+    .pagination a {background: #008465;border: 1px solid #007455;}
+    .footersection {background: #434343  none repeat scroll 0 0;}
+    .footermenu ul li a {color: #008465;}
+    .sidebar {background: #e7e7e7  none repeat scroll 0 0;}
+    .maincontent {background: #e7e7e7  none repeat scroll 0 0;}
